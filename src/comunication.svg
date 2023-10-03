@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#ffffff"
+   width="187px"
+   height="187px"
+   viewBox="0 0 24.00 24.00"
+   stroke="#ffffff"
+   stroke-width="0.00024000000000000003"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="comunication.svg"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.7272727"
+     inkscape:cx="93.316667"
+     inkscape:cy="93.5"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 1"
+     style="display:none;fill:#000000">
+    <rect
+       style="fill:#000000;stroke-width:0"
+       id="rect1"
+       width="27.974337"
+       height="24.588125"
+       x="-1.2535759"
+       y="-0.36198804" />
+  </g>
+  <g
+     id="SVGRepo_bgCarrier"
+     stroke-width="0"
+     style="display:inline" />
+  <g
+     id="SVGRepo_tracerCarrier"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke="#CCCCCC"
+     stroke-width="0.8160000000000001" />
+  <g
+     id="SVGRepo_iconCarrier"
+     style="fill:#ffffff;fill-opacity:1"
+     transform="translate(-1.9685073,-0.47021484)">
+    <path
+       d="M 9,14 C 12.563867,14 14.348013,9.6914458 11.828283,7.1717166 9.3085542,4.6519873 5,6.4361328 5,10 c 0,2.209139 1.790861,4 4,4 z m -3,1 h 6 c 2.209139,0 4,1.790861 4,4 v 2 c 0,1.333333 -1.784908,0.876634 -1.784908,0.876634 L 3.9574621,22.110452 C 3.9574621,22.110452 2,22.333333 2,21 V 19 C 2,16.790861 3.790861,15 6,15 Z M 19.762942,9.9351009 c 0.0041,1.5960611 -0.630376,3.1274541 -1.762,4.2530001 -0.942526,0.910322 -2.324322,-0.471474 -1.414,-1.414 1.56791,-1.567947 1.56791,-4.1100528 0,-5.6780001 -0.975864,-0.9425213 0.471479,-2.3898644 1.414,-1.414 1.131624,1.1255459 1.766074,2.6569391 1.762,4.253 z m 0.617509,7.6506821 c -0.383834,-0.397094 -0.373089,-1.03016 0.024,-1.414 3.593206,-3.416489 3.593206,-9.1455108 0,-12.5619999 -0.962,-0.9299996 0.433,-2.3729996 1.395,-1.443 4.406406,4.2027232 4.406406,11.2352769 0,15.4379999 -0.397094,0.383834 -1.03016,0.373089 -1.414,-0.024 z"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1"
+       sodipodi:nodetypes="ssssssssccsssccccccccccccc" />
+  </g>
+</svg>
