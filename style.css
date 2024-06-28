@@ -1,5 +1,7 @@
 :root {
 	--border-size: 15px;
+	--color-one: #55daab;
+	--color-two: #26cd93;
 }
 
 * {
@@ -28,7 +30,7 @@ header {
 	grid-column: 1/4;
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	background-color: #55daab;
+	background-color: var(--color-one);
 	color: white;
 }
 .title {
@@ -51,7 +53,7 @@ aside {
 	grid-column: 1/2;
 	border-radius: 0 0 0 var(--border-size);
 	padding: 7%;
-	background-color: #26cd93;
+	background-color: var(--color-two);
 	color: white;
 	justify-content: center;
 }
@@ -82,7 +84,7 @@ main {
 	grid-column: 2/4;
 }
 main * {
-	color: #26cd93;
+	color: var(--color-two);
 }
 main h2 {
 	margin: 1% 1%;
