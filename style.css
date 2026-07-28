@@ -8,12 +8,12 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
-		sans-serif;
+	font-family:
+		"Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 body {
-	font-size: 90%;
+	font-size: 80%;
 	height: 100vh;
 	padding: 4%;
 	background-color: #bfe8f5;
@@ -67,16 +67,16 @@ aside p {
 }
 .content {
 	justify-content: center;
-	padding: 5% 1%;
+	padding: 5% 2%;
 }
 .content div {
-	padding: 2% 1%;
+	padding: 3% 1%;
 }
 .content a {
 	color: white;
 }
 .content h3 {
-	margin-top: 2%;
+	margin-top: 5%;
 }
 
 main {
